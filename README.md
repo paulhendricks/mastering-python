@@ -1,1 +1,1 @@
-# mastering-python
+# Mastering Python: Notes and Exercises
